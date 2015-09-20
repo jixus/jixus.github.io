@@ -1,0 +1,3 @@
+# robots not should visit this site
+User-agent: *
+Disallow: /
